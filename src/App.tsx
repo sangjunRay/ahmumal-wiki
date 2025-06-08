@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>hi</div>
+    <div>아무말백과사전</div>
   )
 }
 
